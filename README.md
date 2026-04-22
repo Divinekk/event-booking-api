@@ -87,9 +87,6 @@ mvn spring-boot:run
 
 The application starts at `http://localhost:8080`
 
-> H2 Console (inspect in-memory DB): `http://localhost:8080/h2-console`
-> JDBC URL: `jdbc:h2:mem:eventbookingdb`
-> Username: `sa` | Password: *(leave blank)*
 
 ---
 
